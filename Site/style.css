@@ -1,0 +1,51 @@
+body{
+    background-image: url("Utacak.gif");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center;
+background-size: cover;
+}
+h1{
+color: rgb(255, 255, 255);
+font-family: cursive;
+font-size: xx-large;
+font-style: normal;
+border-top-style: double;
+border-bottom-style: double;
+}
+h2{
+color: rgb(255, 255, 255);
+font-family: Impact,;
+font-size: large;
+font-style: normal;
+border-top-style: double;
+border-bottom-style: double;
+}
+h3{
+color:rgb(255, 255, 255);
+font-family:fantasy;
+font-weight: normal;
+font-size: large;
+}
+#p1{
+color: rgb(224, 240, 240);
+}
+img{
+border-style: double;
+border-color: rgb(52, 43, 43);
+}
+#box1{
+
+mask-position: center;
+}
+#box2{
+border: 3px;
+width: 3%;
+height: 3%;
+background-color: black;
+}
+h4{
+color: aliceblue;
+border-top-style: initial;
+border-bottom-style:initial;
+}
